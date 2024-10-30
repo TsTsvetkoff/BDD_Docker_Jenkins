@@ -1,4 +1,4 @@
-# Created by tsvetoslav.tsvetkov at 30.10.24
+# Created by TsTsvetkoff at 30.10.24
 Feature: Addition
   Scenario: Add two numbers
     Given I have numbers 1 and 2

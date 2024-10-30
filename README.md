@@ -20,7 +20,7 @@ This project is a Jenkins-based setup for running BDD tests on dedicated Contain
 The tests will automatically run when the Jenkins container starts. The results will be saved in the `allure-report` directory.
 
 ## Viewing Allure Report
-To view the generated Allure report, you need to have Allure installed on your local machine. Follow the installation instructions [here](https://allure-report.readthedocs.io/en/latest/).
+To view the generated Allure report, you need to have Allure installed on your local machine. Follow the installation instructions [here]([https://allure-report.readthedocs.io/en/latest/](https://allurereport.org/docs/install/)).
 
 Once Allure is installed, you can serve the report by running:
 ```sh

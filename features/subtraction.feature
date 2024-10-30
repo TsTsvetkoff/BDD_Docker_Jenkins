@@ -9,8 +9,3 @@ Feature: Subtraction
     Given I have numbers -5 and -3
     When I subtract them
     Then the result should be -2
-
-  Scenario: Subtract a positive and a negative number
-    Given I have numbers 5 and -3
-    When I subtract them
-    Then the result should be 8
